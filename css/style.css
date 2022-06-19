@@ -1,0 +1,27 @@
+.header{
+    min-height: 100px;
+    background-color: red;
+    font-size: large;
+    color: white;
+    font-family: arial black;
+    font-style: italic;
+    text-align: center;
+}
+.contact{
+    min-height: 300px;
+    background-color: gray;
+    font-style: italic;
+    color: white;
+    text-align: center;
+    float: left;
+    width: 60%;
+}
+.blog{
+    min-height: 300px;
+    background-color: rgb(35, 144, 177);
+    font-style: italic;
+    color: white;
+    text-align: center; 
+    float: right;
+    width: 40%;
+}
